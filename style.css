@@ -11,10 +11,11 @@ section{
     display: flex;
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
+    margin: 150px;
 }
 .half-section{
     width: 50%;
-    padding-left: 5%;
+    padding-left: 2%;
    
 }
 .half-section img{
@@ -25,4 +26,7 @@ section{
     text-decoration: none;
     padding: 10px 40px;
     border-radius: 5px;
+}
+.section3{
+   padding-left: 158px;
 }
