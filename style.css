@@ -9,7 +9,6 @@ h1{
 }
 section{
     display: flex;
-    background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     margin: 150px;
 }
@@ -26,6 +25,13 @@ section{
     text-decoration: none;
     padding: 10px 40px;
     border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/exp-bg.png);
+}
+.big-dream{
+    background-image: url(images/dream-bg.png);
+    background-position: right;
 }
 .section3{
    padding-left: 158px;
